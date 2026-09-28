@@ -1,0 +1,13 @@
+{
+  "id": "legendary_beasts",
+  "name": "Legendary Beasts",
+  "version": "0.1.1",
+  "api_version": 48,
+  "entry": "mod.gd",
+  "description": "API 48 roaming-beast controls and Crystal Suicune roaming.",
+  "games": [
+    "gold",
+    "silver",
+    "crystal"
+  ]
+}
