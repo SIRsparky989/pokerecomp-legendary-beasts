@@ -20,7 +20,7 @@ A PokéRecomp mod that expands the roaming behavior of the Legendary Beasts in P
 
 - Have the burned tower event done.
 - Actually have set the beast free.
-- For Raikou and Entei you still need to hunt them down for yourself using the original encounter hethode, this mod only increases or decreases the encounter change of actually facing them.
+- For Raikou and Entei you still need to hunt them down for yourself using the original encounter methode, this mod only increases or decreases the encounter change of actually facing them.
 - For Suicune this mod catchis him is you actually manage to flee from the scripted fight, or if you hit him KO
 
 ## Encounter Chance
